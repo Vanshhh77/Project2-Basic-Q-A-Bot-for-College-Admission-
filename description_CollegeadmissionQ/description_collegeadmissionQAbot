@@ -1,0 +1,27 @@
+Welcome to the Admission Q&A Bot project – your go-to chatbot for college admission queries! This project demonstrates the following key features:
+
+1. Question and Answer Dictionary:
+A meticulously crafted dictionary containing common admission questions paired with informative responses.
+  
+2. Interactive User Interface:
+An interactive session where users can either ask specific questions, choose from a predefined list, or gracefully exit the conversation.
+  
+3. Dynamic Responses:
+Responses dynamically adjust based on user input, with an option to personalize responses by recognizing the user's name.
+  
+4. Menu of Questions:
+Users can choose from a list of predefined questions by typing 'list,' providing a structured and user-friendly experience.
+  
+5. Context Handling:
+The chatbot remembers user context, specifically the user's name, enhancing personalization throughout the conversation.
+  
+6. Smooth User Interaction:
+Engages users in a conversational manner, introducing itself, asking for the user's name, and providing a friendly environment for admission-related inquiries.
+  
+  7. Error Handling and Guidance:
+Robust error handling ensures that if the bot encounters an unrecognized query, it prompts the user to try another question or suggests using 'list' to explore available options.
+  
+  8. Session Management:
+The bot maintains an ongoing interactive session until the user decides to exit. The exit message includes a personalized touch if the user's name is known.
+  
+Feel free to dive into the code to explore how questions are organized, how user names are remembered, and how the chatbot seamlessly handles a variety of user interactions. Happy exploring! 
